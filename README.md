@@ -48,3 +48,5 @@ O que você aprendeu construindo esse projeto?
 
 ![App Screenshot](https://i.imgur.com/fkES85P.png)
 
+![App Screenshot](https://i.imgur.com/Bk98u35.png)
+
